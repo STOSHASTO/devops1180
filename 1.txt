@@ -1,1 +1,2 @@
 branch new
+сonflict 
