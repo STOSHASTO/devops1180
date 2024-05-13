@@ -1,1 +1,3 @@
+old text
 branch new
+сonflict 
